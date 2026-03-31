@@ -1,6 +1,6 @@
 """
 AI Gym Tracker — Streamlit Real-Time App
-Uses streamlit-webrtc for true browser-side webcam (works on Streamlit Cloud)
+Uses streamlit-webrtc for true browser-side web cam (works on Streamlit Cloud)
 Supports: Squat · Push-Up · Pull-Up · Jumping Jack · Russian Twist
 """
 
